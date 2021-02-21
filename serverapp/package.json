@@ -1,0 +1,11 @@
+{
+  "name": "myportfolio-serverapp",
+  "version": "1.0.0",
+  "description": "Onur Kayabasi's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OnurKayabasi",
+  "license": "ISC"
+}
